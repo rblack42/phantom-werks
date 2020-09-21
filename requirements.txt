@@ -1,0 +1,5 @@
+flask
+sphinx
+sphinxcontrib-bibtex
+sphinxcontrib-tikz
+
