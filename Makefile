@@ -1,3 +1,5 @@
+PROJECT := $(notdir $(PWD))
+
 MK := ~/_sys/mk
 
 include ${MK}/help.mk

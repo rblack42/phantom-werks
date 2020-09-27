@@ -1,4 +1,6 @@
 flask
+gunicorn
+pytest
 sphinx
 sphinxcontrib-bibtex
 sphinxcontrib-tikz
